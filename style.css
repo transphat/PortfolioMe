@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.content {
+    min-height: 89%;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+.footer {
+    height: 30px;
+    /* margin-top: -30px; */
+}
+img {
+    height: 350px;
+    width: 350px;
+}
+h1 {
+    size: 25px;
+    color: darkslategray;
+}
+.figure .img {
+    float: left;
+}
+section {
+    min-height: 89%;  
+    min-width: 50%;
+
+}
